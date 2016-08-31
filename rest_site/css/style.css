@@ -1,0 +1,28 @@
+.red{
+
+	background-color: grey;
+
+}
+
+.inner-col{
+
+height: 700px;
+background-color:grey;
+margin-top: 40px;
+margin-bottom: 40px;
+
+}
+
+.col-md-4{
+
+}
+
+.v-margin > div {
+  padding:0 20px;
+}
+.v-margin > div:first-child {
+  padding-left:40px;
+}
+.v-margin > div:last-child {
+  padding-right:40px;
+}
